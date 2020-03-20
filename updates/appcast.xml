@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>PLR Vision</title>
+        <title>TestSparkle</title>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
@@ -11,11 +11,11 @@
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
             <enclosure
-                url="http://you.com/app/Your%20Great%20App%202.0.zip"
-                sparkle:version="2.0"
-                length="1623481"
+                url="https://github.com/NathanYu1124/TempServer/blob/master/updates/TestSparkle.zip"
+                sparkle:version="2.0.0"
+                length="1763195"
                 type="application/octet-stream"
-                sparkle:dsaSignature="BAFJW4B6B1K1JyW30nbkBwainOzrN6EQuAh"
+                sparkle:dsaSignature="liddZfDDfq3kGJaU27g6XAHFp066J86Px7gsgckiRbjogRSYnzjJsLt1WmBfM0YoNE1Mtc68lYt2+Yv1HeSuCA=="
             />
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
