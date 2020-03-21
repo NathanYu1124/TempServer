@@ -6,7 +6,7 @@
             <title>2.0.0</title>
             <pubDate>周五, 20 3月 2020 22:17:34 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/NathanYu1124/TempServer/blob/master/updates/TestSparkle.zip" sparkle:version="2" sparkle:shortVersionString="2.0.0" length="1763195" type="application/octet-stream" sparkle:edSignature="liddZfDDfq3kGJaU27g6XAHFp066J86Px7gsgckiRbjogRSYnzjJsLt1WmBfM0YoNE1Mtc68lYt2+Yv1HeSuCA=="/>
+            <enclosure url="https://raw.githubusercontent.com/NathanYu1124/TempServer/master/updates/TestSparkle.zip" sparkle:version="2" sparkle:shortVersionString="2.0.0" length="1763195" type="application/octet-stream" sparkle:edSignature="liddZfDDfq3kGJaU27g6XAHFp066J86Px7gsgckiRbjogRSYnzjJsLt1WmBfM0YoNE1Mtc68lYt2+Yv1HeSuCA=="/>
         </item>
     </channel>
 </rss>
