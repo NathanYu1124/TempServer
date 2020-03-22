@@ -4,11 +4,35 @@
         <title>PLR_Vision</title>
         <item>
             <title>2.0.1</title>
+            <description>
+            <![CDATA[
+                <h1>更新日志</h1>
+                <hr>
+                <h3>最重要更新</h3>
+                <ul>
+                    <li>添加了语音播报功能</li>
+                    <li>修复了v2.0.0版本存在的一些bug</li>
+                </ul>
+                <h3>UI部分</h3>
+                <ul>
+                    <li>重新设计了关于页面显示效果-半透明毛玻璃样式</li>
+                    <li>移除了状态栏图标</li>
+                    <li>将系统菜单栏关于页面与已有页面相统一</li>
+                </ul>
+                <h3>bug修复</h3>
+                <ul>
+                    <li>修复了取消沙盒机制后临时图片存储位置错误的bug</li>
+                    <li>修复了关于页面按钮无法打开浏览器指定url的bug</li>
+                </ul>
+                <h3>其他</h3>
+                <ul>
+                    <li>移除了v1.0版本中存在的部分图片资源与代码</li>
+                    <li>添加了本地化语言支持，暂定支持语言为: 中文简体，英文，后续将完善此功能</li>
+                </ul>
+            ]]>
+            </description>
             <pubDate>周日, 22 3月 2020 12:32:57 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>
-                https://raw.githubusercontent.com/NathanYu1124/TempServer/master/updates/2.0.1.html
-            </sparkle:releaseNotesLink>
             <enclosure
                 url="https://raw.githubusercontent.com/NathanYu1124/TempServer/master/updates/PLR_Vision.zip"
                 sparkle:version="3"
