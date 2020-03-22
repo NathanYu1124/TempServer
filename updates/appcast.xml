@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PLR_Vision</title>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>周日, 22 3月 2020 12:32:57 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/NathanYu1124/TempServer/master/updates/PLR_Vision.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/NathanYu1124/TempServer/master/updates/PLR_Vision.zip" sparkle:version="2" sparkle:shortVersionString="2.0.0" length="53807457" type="application/octet-stream" sparkle:edSignature="qoJWct764k6EoXd17+hCVIEt3CYB3umF0JbZ5xNBCUMhkg1Slj4Q2fGntPTYnNrTktA+DsmfGYhoQqpu9I1MBA=="/>
+        </item>
+    </channel>
+</rss>
