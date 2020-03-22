@@ -6,7 +6,6 @@
             <title>2.0.1</title>
             <pubDate>周日, 22 3月 2020 12:32:57 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/NathanYu1124/TempServer/master/updates/release-note.html</sparkle:releaseNotesLink>
             <enclosure
                 url="https://raw.githubusercontent.com/NathanYu1124/TempServer/master/updates/PLR_Vision.zip"
                 sparkle:version="3"
