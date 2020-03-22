@@ -3,10 +3,11 @@
     <channel>
         <title>PLR_Vision</title>
         <item>
-            <title>2.0.0</title>
-            <pubDate>周六, 21 3月 2020 16:45:08 +0800</pubDate>
+            <title>2.0.1</title>
+            <pubDate>周日, 22 3月 2020 11:10:47 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/NathanYu1124/TempServer/master/updates/PLR_Vision.zip" sparkle:version="2" sparkle:shortVersionString="2.0.0" length="53943494" type="application/octet-stream" sparkle:edSignature="qB48pQe6FdBORahkNukyCUXCevno3RudyUF0ftxuMFdQqSWMb2oMIyf4Pdm2uEtQLvkHlnVllGDiqlPrOdmpCw=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/NathanYu1124/TempServer/master/updates/PLR_Vision.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/NathanYu1124/TempServer/master/updates/PLR_Vision.zip" sparkle:version="2" sparkle:shortVersionString="2.0.1" length="53807461" type="application/octet-stream" sparkle:edSignature="tsXyBoojKbxKHKWOPIaOXKAfZi6zC0mblSN+59YcojMk2zK+kmKMcvqrFW0Oe1MlKscPbLagRAAlGnjnXSfPCQ=="/>
         </item>
     </channel>
 </rss>
